@@ -1,6 +1,6 @@
 # A simple calculator
 
-A simple calculator app made with Flutter
+Calculator App for my ristek assigment
 
 <img src="./screenshot.png" width="250">
 # CalculatorApp
